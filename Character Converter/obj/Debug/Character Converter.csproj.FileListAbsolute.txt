@@ -1,0 +1,9 @@
+D:\Sync\Character Converter\Character Converter\Character Converter\bin\Debug\Character Converter.exe.config
+D:\Sync\Character Converter\Character Converter\Character Converter\bin\Debug\Character Converter.exe
+D:\Sync\Character Converter\Character Converter\Character Converter\bin\Debug\Character Converter.pdb
+D:\Sync\Character Converter\Character Converter\Character Converter\obj\Debug\Character Converter.csprojResolveAssemblyReference.cache
+D:\Sync\Character Converter\Character Converter\Character Converter\obj\Debug\Character_Converter.Form1.resources
+D:\Sync\Character Converter\Character Converter\Character Converter\obj\Debug\Character_Converter.Properties.Resources.resources
+D:\Sync\Character Converter\Character Converter\Character Converter\obj\Debug\Character Converter.csproj.GenerateResource.Cache
+D:\Sync\Character Converter\Character Converter\Character Converter\obj\Debug\Character Converter.exe
+D:\Sync\Character Converter\Character Converter\Character Converter\obj\Debug\Character Converter.pdb
